@@ -4,3 +4,6 @@
 ![Image of Yaktocat](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Neel0305/assets/94377216/05dd359e-2a9f-4d89-bfec-3649e89b7783)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
